@@ -4,3 +4,5 @@ This repository focuses on fine-tuning the LHDN E-Invoice information base for d
 (this is volunteer project)
 
 ## Overview
+
+Our goal is to develop a chat application designed to address user queries about E-Invoices in Malaysia. The information provided will be sourced from reliable and trusted entities, including LHDN, major local media outlets, newspapers, and other government agencies.
